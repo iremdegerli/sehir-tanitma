@@ -1,0 +1,24 @@
+.arka-plan1 {
+    background-color: #F6C6EA; 
+}
+.table1 {
+    background-color: #DEEDF0;
+}
+.navbar {
+	border-bottom: 1px solid;
+}
+.nav-yazi {
+    color: #ffffff
+}
+.arka-plan2 {
+    background-color: #FDFAF6;
+}
+.padding{
+    padding:25px 50px;
+}
+.color{
+    color: #00c5ed;
+}
+p,h1,h4,h3{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
